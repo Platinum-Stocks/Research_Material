@@ -1,2 +1,1 @@
 https://github.com/maximedb/nlp_papers
-https://towardsdatascience.com/nlp-in-the-financial-market-sentiment-analysis-9de0dda95dc
